@@ -2,7 +2,7 @@ Welcome to my Bootstrap practice project! This is a responsive website design sh
 Screenshots:
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1]("C:\Users\abhishek\Pictures\Screenshots\screenshot1.png")
 *Caption for Screenshot 1*
 
 ![Screenshot 2](screenshots/screenshot2.png)
